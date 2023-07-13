@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-Here is the link:
+Here is the link: https://gisellerx.github.io/password-generator/
 
 <img src="./assets/images/screenshot.png">
 
